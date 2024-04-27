@@ -1,12 +1,12 @@
 <div align="center">
 
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-    
+
 # Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm an IT freshman studying at RMIT University!
-        
+
 </div>
-    
+
 ## 📫 How to reach me
 
 <div align="center">
@@ -25,15 +25,14 @@ I'm an IT freshman studying at RMIT University!
 - 🔭 Currently studying Information Technology - specialized in Web development
 - 🌱 Learning more about and studying: **Open Source, Web Development, Cloud Computing**
 
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Highlight Projects
-
-- [Project 1](https://github.com/quangminh24112005/project1)
-- [Project 2](https://github.com/quangminh24112005/project2)
+<div align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
+        alt="Quang Minh's GitHub stats" style="width: 49.5%; height: 200px;">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight"
+        alt="Top Langs" style="width: 49.5%; height: 200px;">
+</div>
 
 ## 🔨 Languages & Frameworks
 
@@ -60,11 +59,7 @@ Cloud hosting<br>
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)<br>
 
-<div align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-        alt="Quang Minh's GitHub stats" style="width: 49.5%; height: 200px;">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight"
-        alt="Top Langs" style="width: 49.5%; height: 200px;">
-</div>
+## 🗂️ Highlight Projects
+
+- [Project 1](https://github.com/quangminh24112005/project1)
+- [Project 2](https://github.com/quangminh24112005/project2)
