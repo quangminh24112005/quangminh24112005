@@ -24,6 +24,12 @@
   <a href="https://yourwebsite.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" style="text-decoration: none;">
   </a>
+
+  <style>
+    img:hover {
+      text-decoration: none;
+    }
+  </style>
 </p>
 
 ## 🏆 GitHub Trophies:
