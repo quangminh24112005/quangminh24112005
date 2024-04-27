@@ -30,8 +30,8 @@ I'm an IT freshman studying at RMIT University!
         src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
         alt="Quang Minh's GitHub stats" style="width: 40%; height: 200px;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=tokyonight" alt="GitHub Streak Stats" style="width: 40%; height: 200px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats" style="width: 40%; height: 200px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 40%; height: 200px;">
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats" style="width: 40%; height: 200px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 40%; height: 200px;"> -->
 </div>
 
 ## 🔨 Languages & Frameworks
