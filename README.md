@@ -25,14 +25,19 @@ I'm an IT freshman studying at RMIT University!
 - 🔭 Currently studying Information Technology - specialized in Web development
 - 🌱 Learning more about and studying: **Open Source, Web Development, Cloud Computing**
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-    alt="Quang Minh's GitHub stats" style="width: 50%; height: 140px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats" style="width: 50%; height: 140px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 50%; height: 140px;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=tokyonight" alt="GitHub Streak Stats" style="width: 50%; height: 140px;">
+    alt="Quang Minh's GitHub stats" style="width: 49%; height: auto;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats" style="width: 49%; height: auto;">
+
+</div>
+
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 49%; height: auto;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=tokyonight" alt="GitHub Streak Stats" style="width: 49%; height: auto;">
 
 </div>
 
