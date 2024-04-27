@@ -1,9 +1,12 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"
+    width="100%" />
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <div align="center">
 # Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
 I'm an IT freshman studying at RMIT University!
 </div>
 
+## 🌐 Socials:
 <div> <a href="https://twitter.com/quang_minh2411" target="_blank"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 target="_blank"></a>
@@ -17,28 +20,6 @@ target="_blank"></a>
 src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/quang_minh2411" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg"
-        alt="quang_minh2411" height="30" width="40" /></a><a href="https://fb.com/Phamlequangminh0790"
-    target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg"
-        alt="Phamlequangminh0790" height="30" width="40" /></a><a href="https://instagram.com/qminh1142"
-    target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg"
-        alt="qminh1142" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/quangminh2411"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-            height="50" width="210" alt="quangminh2411" /></a></p><br><br>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Phamlequangminh0790)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qminh1142)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/quang_minh2411)
 
 # 💻 Tech Stack:
 ### Web Development and Design
@@ -115,6 +96,10 @@ Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-th
     src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/quangminh2411"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+            height="50" width="210" alt="quangminh2411" /></a></p><br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
