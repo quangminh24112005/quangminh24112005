@@ -1,38 +1,31 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #333;
-        }
-        a {
-            color: #0066cc;
-        }
-        img {
-            border-radius: 8px;
-        }
-        /* Add more styles as needed */
-    </style>
-</head>
-<body>
-    <h1>Hello, I'm [Your Name] 👋</h1>
+# Hello, I'm [Your Name] 👋
 
-    <h2>🌐 Connect with me:</h2>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/yourusername/">LinkedIn</a></li>
-        <li><a href="https://twitter.com/yourusername">Twitter</a></li>
-        <li><a href="https://www.instagram.com/yourusername/">Instagram</a></li>
-        <li><a href="https://www.facebook.com/yourusername/">Facebook</a></li>
-        <li><a href="https://yourwebsite.com">Website</a></li>
-    </ul>
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/yourusername)
+- [Instagram](https://www.instagram.com/yourusername/)
+- [Facebook](https://www.facebook.com/yourusername/)
+- [Website](https://yourwebsite.com)
 
-    <h2>📊 GitHub Stats:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Your GitHub stats">
+## 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-    <!-- Add more content following the same pattern -->
+## 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</body>
-</html>
+## 🗂️ Highlight Projects:
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+
+## 📌 Pinned Repositories:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1&theme=tokyonight)](https://github.com/yourusername/yourrepo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo2&theme=tokyonight)](https://github.com/yourusername/yourrepo2)
+
+## 💻 Online IDE Stats:
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight)
+
+## 👩‍💻 This week, I spent my time on:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 My contribution graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=xcode)
