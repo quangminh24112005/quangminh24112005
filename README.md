@@ -97,11 +97,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+[![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+---
 <h3 align="right">Support:</h3>
 <p><a href="https://ko-fi.com/quangminh2411"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
 height="50" width="210" alt="quangminh2411" /></a></p><br><br>
-
----
-[![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
