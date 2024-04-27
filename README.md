@@ -5,23 +5,23 @@ I'm a Software Engineer!
 [![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
 
 <p style="float: left; text-align: center; text-decoration: none;">
-    <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
             alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/yourusername" style="text-decoration: none;">
+    <a href="https://twitter.com/yourusername" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
             alt="Twitter">
     </a>
-    <a href="https://www.instagram.com/yourusername/" style="text-decoration: none;">
+    <a href="https://www.instagram.com/yourusername/" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
             alt="Instagram">
     </a>
-    <a href="https://www.facebook.com/yourusername/" style="text-decoration: none;">
+    <a href="https://www.facebook.com/yourusername/" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
             alt="Facebook">
     </a>
-    <a href="https://yourwebsite.com" style="text-decoration: none;">
+    <a href="https://yourwebsite.com" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
             alt="Website">
     </a>
