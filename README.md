@@ -46,7 +46,7 @@ I'm a Software Engineer!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Google Cloud](https://camo.githubusercontent.com/6dd9b78a9a59f20f33a555480b6e5a2c5e51bef5696cd7f0a6f8bfc090bb4054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c655f436c6f75645f506c6174666f726d2d3161373365383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 
 
