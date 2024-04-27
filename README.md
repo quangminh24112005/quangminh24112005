@@ -30,8 +30,10 @@
             alt="Website" style="text-decoration: none;">
     </a>
     <a target="_blank" rel="noopener noreferrer nofollow"
-            data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
-            style="max-width: 100%;"></a>
+        href="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
+            alt="Python" style="max-width: 100%;">
+    </a>
 </p>
 
 ## 🏆 GitHub Trophies:
