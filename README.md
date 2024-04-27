@@ -8,43 +8,13 @@
     </a>
 </p>
 
-<p align="center">
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-            alt="LinkedIn" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white">
-        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
-            alt="Twitter" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white">
-        <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
-            alt="Instagram" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white">
-        <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
-            alt="Facebook" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white">
-        <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
-            alt="Website" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
-            alt="Python" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
-            alt="Python" style="max-width: 100%;">
-    </a>
-</p>
+## 📫 How to reach me?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/yourusername/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yourusername/)](https://www.facebook.com/yourusername/)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
