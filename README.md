@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Quang Minh
+<p align="center"># Hi there 👋, I'm Quang Minh</p>
 
 I'm a Software Engineer!
 
