@@ -1,23 +1,24 @@
 <div align="center">
 
-    ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-    # Hi, my name is Quang Minh 👋
-    I'm an IT freshman studying at RMIT University!
-
-    [![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
-
+![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+    
+# Hi, my name is Quang Minh 👋
+I'm an IT freshman studying at RMIT University!
+    
+[![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
+    
 </div>
+    
 
 ## 📫 How to reach me
 
 <div align="center">
 
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-    [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-    [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/qminh1142/)
-    [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yourusername/)](https://www.facebook.com/Phamlequangminh0790)
-    [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/qminh1142/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yourusername/)](https://www.facebook.com/Phamlequangminh0790)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
 </div>
 
@@ -64,8 +65,7 @@ Cloud hosting<br>
 
 ## 📊 Github stats
 
-![Quang Minh's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight)
+![Quang Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight)
 
