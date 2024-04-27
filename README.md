@@ -2,7 +2,8 @@
 
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
     
-# Hi, my name is Quang Minh 👋
+# Hi, my name is Quang Minh ![Waving](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+
 I'm an IT freshman studying at RMIT University!
     
 [![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
