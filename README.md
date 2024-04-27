@@ -3,12 +3,10 @@
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
     
 # Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 I'm an IT freshman studying at RMIT University!
         
 </div>
     
-
 ## 📫 How to reach me
 
 <div align="center">
@@ -62,10 +60,11 @@ Cloud hosting<br>
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)<br>
 
-## 📊 Github stats
-
-![Quang Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight)
-
-![GitHub commit activity chart](https://activity-graph.herokuapp.com/graph?username=quangminh24112005&theme=github)
+<div align="center">
+    <a href="https://github.com/quangminh24112005">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight" alt="Quang Minh's GitHub stats" style="width: 49.5%;">
+    </a>
+    <a href="https://github.com/quangminh24112005">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight" alt="Top Langs" style="width: 49.5%;">
+    </a>
+</div>
