@@ -7,15 +7,15 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Quang Minh</a></b>
+                <b><a target="_blank" href="#">Quang Minh</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
+<!--     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <br> -->
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
     <br>
