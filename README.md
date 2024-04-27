@@ -34,6 +34,16 @@
         <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
             alt="Website" style="max-width: 100%;">
     </a>
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
+            alt="Python" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
+            alt="Python" style="max-width: 100%;">
+    </a>
 </p>
 
 ## 🏆 GitHub Trophies:
