@@ -28,10 +28,10 @@ I'm an IT freshman studying at RMIT University!
 <div align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-        alt="Quang Minh's GitHub stats" style="width: 49.5%; height: 200px;">
+        alt="Quang Minh's GitHub stats" style="width: 49.5%; height: auto;">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight"
-        alt="Top Langs" style="width: 49.5%; height: 200px;">
+        alt="Top Langs" style="width: 49.5%; height: auto;">
 </div>
 
 ## 🔨 Languages & Frameworks
