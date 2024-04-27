@@ -63,8 +63,8 @@ Cloud hosting<br>
 <div align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-        alt="Quang Minh's GitHub stats" style="width: 49.5%;">
+        alt="Quang Minh's GitHub stats" style="width: 49.5%; height: 200px;">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight"
-        alt="Top Langs" style="width: 49.5%;">
+        alt="Top Langs" style="width: 49.5%; height: 200px;">
 </div>
