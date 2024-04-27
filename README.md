@@ -9,30 +9,30 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none;">
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-            alt="LinkedIn" style="text-decoration: none;">
-    </a>
-    <a href="https://twitter.com/yourusername" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
-            alt="Twitter" style="text-decoration: none;">
-    </a>
-    <a href="https://www.instagram.com/yourusername/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
-            alt="Instagram" style="text-decoration: none;">
-    </a>
-    <a href="https://www.facebook.com/yourusername/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
-            alt="Facebook" style="text-decoration: none;">
-    </a>
-    <a href="https://yourwebsite.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
-            alt="Website" style="text-decoration: none;">
+            alt="LinkedIn" style="max-width: 100%;">
     </a>
     <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
-            alt="Python" style="max-width: 100%;">
+        href="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white">
+        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
+            alt="Twitter" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
+            alt="Instagram" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white">
+        <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
+            alt="Facebook" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white">
+        <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
+            alt="Website" style="max-width: 100%;">
     </a>
 </p>
 
