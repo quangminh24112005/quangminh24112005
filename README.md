@@ -1,14 +1,8 @@
 <div align="center">
-
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 # Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm an IT freshman studying at RMIT University!
-
 </div>
-
-## 📫 How to reach me
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Phamlequangminh0790) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qminh1142) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/quang_minh2411) 
@@ -26,10 +20,5 @@ I'm an IT freshman studying at RMIT University!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
