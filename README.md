@@ -1,5 +1,3 @@
-[![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
-
 <div align="center">
 
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
