@@ -14,11 +14,23 @@ I'm a Software Engineer!
 
 ## 📫 How to reach me?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/yourusername/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yourusername/)](https://www.facebook.com/yourusername/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/yourusername/">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/yourusername/">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
