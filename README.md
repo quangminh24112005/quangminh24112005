@@ -1,74 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Quang Minh</h1>
+<h3 align="center">An Information Technologu freshman studying at RMIT University</h3>
 
-![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quangminh24112005&label=Profile%20views&color=0e75b6&style=flat" alt="quangminh24112005" /> </p>
 
-# Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm an IT freshman studying at RMIT University!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangminh24112005" alt="quangminh24112005" /></a> </p>
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/quang_minh2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quang_minh2411" height="30" width="40" /></a>
+<a href="https://fb.com/phamlequangminh0790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamlequangminh0790" height="30" width="40" /></a>
+<a href="https://instagram.com/qminh1142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qminh1142" height="30" width="40" /></a>
+</p>
 
-## 📫 How to reach me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/quangminh2411"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="quangminh2411" /></a></p><br><br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/qminh1142/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yourusername/)](https://www.facebook.com/Phamlequangminh0790)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangminh24112005&show_icons=true&locale=en&layout=compact" alt="quangminh24112005" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&locale=en" alt="quangminh24112005" /></p>
 
-## 🧐 About
-
-- 🏄‍ Community guy who loves being involved in communities
-- 🔭 Currently studying Information Technology - specialized in Web development
-- 🌱 Learning more about and studying: **Open Source, Web Development, Cloud Computing**
-
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-alt="Quang Minh's GitHub stats" style="width: 49%; height: auto; border: none;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=tokyonight" alt="GitHub Streak Stats" style="width: 49%; height: auto;">
-
-
-</div>
-
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 49%; height: auto;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats" style="width: 49%; height: auto;">
-
-</div>
-
-
-## 🔨 Languages & Frameworks
-
-Programming languages<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)<br>
-
-Web design and development<br>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)<br>
-
-Database<br>
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>
-
-Cloud hosting<br>
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)<br>
-
-## 🗂️ Highlight Projects
-
-- [Project 1](https://github.com/quangminh24112005/project1)
-- [Project 2](https://github.com/quangminh24112005/project2)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&" alt="quangminh24112005" /></p>
