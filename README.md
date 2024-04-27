@@ -4,32 +4,27 @@ I'm a Software Engineer!
 
 [![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
 
-## 🧐 About
-
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants, #Organizer
-- 🔭 I am currently studying Computer Science - specialized in Software Engineering
-- 🌱 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
-- 👯 And Many More...
-
-## 📫 How to reach me?
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/yourusername/">
-    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/yourusername/">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
-  </a>
+    <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
+            alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/yourusername" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
+            alt="Twitter">
+    </a>
+    <a href="https://www.instagram.com/yourusername/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
+            alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/yourusername/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
+            alt="Facebook">
+    </a>
+    <a href="https://yourwebsite.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
+            alt="Website">
+    </a>
 </p>
 
 ## 🏆 GitHub Trophies:
@@ -59,7 +54,8 @@ I'm a Software Engineer!
 
 ## 📊 Github stats
 
-![Quang Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight)
+![Quang Minh's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight)
 
