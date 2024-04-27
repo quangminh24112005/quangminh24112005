@@ -27,18 +27,31 @@ I'm a Software Engineer!
 - [Project 1](https://github.com/quangminh24112005/project1)
 - [Project 2](https://github.com/quangminh24112005/project2)
 
-## 📌 Pinned Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quangminh24112005&repo=yourrepo1&theme=tokyonight)](https://github.com/quangminh24112005/yourrepo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quangminh24112005&repo=yourrepo2&theme=tokyonight)](https://github.com/quangminh24112005/yourrepo2)
+## 🛠 Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 
-## 💻 Online IDE Stats:
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&theme=tokyonight)
 
-## 👩‍💻 This week, I spent my time on:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈 My contribution graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=quangminh24112005&theme=xcode)
+<!-- ## 📈 My contribution graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=quangminh24112005&theme=xcode) -->
 
 ## 📊 Github stats
 
