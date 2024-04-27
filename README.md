@@ -30,9 +30,6 @@
             alt="Website" style="text-decoration: none;">
     </a>
     <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/53c5129a5b26d5775d744e45f63783bbe396f7dae1e7f9c8bc4ca20de2be7ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/53c5129a5b26d5775d744e45f63783bbe396f7dae1e7f9c8bc4ca20de2be7ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"
-            alt="Python"
             data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
             style="max-width: 100%;"></a>
 </p>
