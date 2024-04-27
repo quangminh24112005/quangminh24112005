@@ -45,3 +45,5 @@ I'm a Software Engineer!
 ![Quang Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight)
+
+![GitHub commit activity chart](https://activity-graph.herokuapp.com/graph?username=quangminh24112005&theme=github)
