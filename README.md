@@ -1,34 +1,33 @@
-<p align="center"># Hi there 👋, I'm Quang Minh</p>
+<p align="center" style="font-size: 24px; font-weight: bold;"># Hi there 👋, I'm Quang Minh</p>
 
-I'm a Software Engineer!
+<p align="center" style="font-size: 18px;">I'm a Software Engineer!</p>
 
-[![Github](https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social)](https://github.com/quangminh24112005)
+<p align="center">
+  <a href="https://github.com/quangminh24112005">
+    <img src="https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social" alt="Github">
+  </a>
+</p>
 
-<p style="float: left; text-align: center; text-decoration: none;">
-    <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-            alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/yourusername" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
-            alt="Twitter">
-    </a>
-    <a href="https://www.instagram.com/yourusername/" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
-            alt="Instagram">
-    </a>
-    <a href="https://www.facebook.com/yourusername/" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
-            alt="Facebook">
-    </a>
-    <a href="https://yourwebsite.com" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
-            alt="Website">
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourusername" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/yourusername/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/yourusername/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://yourwebsite.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/quangminh24112005/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects:
 - [Project 1](https://github.com/quangminh24112005/project1)
