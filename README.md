@@ -61,10 +61,10 @@ Cloud hosting<br>
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)<br>
 
 <div align="center">
-    <a href="https://github.com/quangminh24112005">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight" alt="Quang Minh's GitHub stats" style="width: 49.5%;">
-    </a>
-    <a href="https://github.com/quangminh24112005">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight" alt="Top Langs" style="width: 49.5%;">
-    </a>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
+        alt="Quang Minh's GitHub stats" style="width: 49.5%;">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight"
+        alt="Top Langs" style="width: 49.5%;">
 </div>
