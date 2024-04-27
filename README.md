@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## About Me
 
-- 🌟 I'm a software engineer with a love for elegant code.
-- 🚀 I enjoy working on web development, machine learning, and data science projects.
+- 🌟 I'm an IT freshman studying at RMIT University.
+- 🚀 I enjoy working on web development and design.
 - 🎨 In my free time, I dabble in UI/UX design and digital art.
 
 ## Tech Stack
