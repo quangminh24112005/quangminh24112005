@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## Tech Stack
 
+Link Text
+https://camo.githubusercontent.com/cc6b3125b86da59925cdb2e93eaf39efcaa4bd34f19893aca7f255e1d23d2a06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3332366365353f7374796c653d666c61742d737175617265266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465
+
 - 💻 Languages: Python, JavaScript, Java
 - 🌐 Frontend: React, HTML, CSS
 - 📊 Backend: Node.js, Express
