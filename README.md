@@ -4,6 +4,37 @@
 I'm an IT freshman studying at RMIT University!
 </div>
 
+<div> <a href="https://twitter.com/quang_minh2411" target="_blank"><img
+src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+target="_blank"></a>
+<a href="https://github.com/quangminh24112005" target="_blank"><img
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+target="_blank"></a>
+<a href="https://instagram.com/qminh1142" target="_blank"><img
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+target="_blank"></a>
+<a href="mailto:phamlequangminh2411@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+target="_blank"></a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/quang_minh2411" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg"
+        alt="quang_minh2411" height="30" width="40" /></a><a href="https://fb.com/Phamlequangminh0790"
+    target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg"
+        alt="Phamlequangminh0790" height="30" width="40" /></a><a href="https://instagram.com/qminh1142"
+    target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg"
+        alt="qminh1142" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/quangminh2411"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+            height="50" width="210" alt="quangminh2411" /></a></p><br><br>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Phamlequangminh0790)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qminh1142)
@@ -55,17 +86,33 @@ Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-th
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+<div align="center">
+    <a href="https://github.com/quangminh24112005">
+        <img align="center"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangminh24112005&theme=2077"
+            height="180em" />
+        <img align="center"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangminh24112005&theme=2077"
+            height="180em" />
+        <img align="center"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangminh24112005&theme=2077"
+            height="180em" />
+        <img align="center"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangminh24112005&theme=2077"
+            height="180em" />
+        <img align="center"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangminh24112005&theme=2077"
+            height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=quangminh24112005&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=dark&hide_border=true)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<img
+    src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
