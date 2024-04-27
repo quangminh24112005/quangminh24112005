@@ -28,13 +28,13 @@ I'm an IT freshman studying at RMIT University!
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; width: 100%;">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-        alt="Quang Minh's GitHub stats" style="width: 49%; height: 100%;">
+        alt="Quang Minh's GitHub stats" style="width: 45%; height: 250px;">
     <!-- <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact"
         alt="Top Langs" style="width: 49%; height: 100%;"> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=tokyonight" alt="GitHub Streak Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quangminh24112005&layout=compact" alt="WakaTime Stats" style="width: 45%; height: 250px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 45%; height: 250px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangminh24112005&theme=tokyonight" alt="GitHub Streak Stats" style="width: 45%; height: 250px;">
 </div>
 
 ## 🔨 Languages & Frameworks
