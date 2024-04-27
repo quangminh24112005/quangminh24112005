@@ -2,8 +2,8 @@
 width="100%" />
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <div align="center">
-<h1>Hi, my name is Quang Minh </h1><img
-src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
+<h1>Hi, my name is Quang Minh <img
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br></h1>
 I'm an IT freshman studying at RMIT University!
 </div>
 
@@ -100,7 +100,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h3 align="right">Support:</h3>
-<p><a href="https://ko-fi.com/quangminh2411"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+<p><a href="https://ko-fi.com/quangminh2411"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
 height="50" width="210" alt="quangminh2411" /></a></p><br><br>
 
 ---
