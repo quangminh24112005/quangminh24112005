@@ -25,13 +25,13 @@ I'm an IT freshman studying at RMIT University!
 - 🔭 Currently studying Information Technology - specialized in Web development
 - 🌱 Learning more about and studying: **Open Source, Web Development, Cloud Computing**
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=quangminh24112005&show_icons=true&theme=tokyonight"
-        alt="Quang Minh's GitHub stats" style="width: 49.5%; height: auto;">
+        alt="Quang Minh's GitHub stats" style="width: 49%; height: 100%;">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight"
-        alt="Top Langs" style="width: 49.5%; height: auto;">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh24112005&theme=tokyonight&layout=compact"
+        alt="Top Langs" style="width: 49%; height: 100%;">
 </div>
 
 ## 🔨 Languages & Frameworks
