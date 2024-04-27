@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"
-    width="100%" />
+width="100%" />
 ![Quang Minh](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <div align="center">
-# Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
+<h1>Hi, my name is Quang Minh </h1><img
+src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
 I'm an IT freshman studying at RMIT University!
 </div>
 
@@ -54,7 +55,7 @@ Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badg
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Design Tools 
+### Design Tools
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe
@@ -65,41 +66,42 @@ Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-th
 
 ### Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio
+Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
-    <a href="https://github.com/quangminh24112005">
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangminh24112005&theme=2077"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangminh24112005&theme=2077"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangminh24112005&theme=2077"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangminh24112005&theme=2077"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangminh24112005&theme=2077"
-            height="180em" />
+<a href="https://github.com/quangminh24112005">
+<img align="center"
+src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangminh24112005&theme=2077"
+height="180em" />
+<img align="center"
+src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangminh24112005&theme=2077"
+height="180em" />
+<img align="center"
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangminh24112005&theme=2077"
+height="180em" />
+<img align="center"
+src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangminh24112005&theme=2077"
+height="180em" />
+<img align="center"
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangminh24112005&theme=2077"
+height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
 
-<img
-    src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Support:</h3>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<h3 align="right">Support:</h3>
 <p><a href="https://ko-fi.com/quangminh2411"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-            height="50" width="210" alt="quangminh2411" /></a></p><br><br>
+height="50" width="210" alt="quangminh2411" /></a></p><br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
