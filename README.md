@@ -28,7 +28,7 @@ I'm a Software Engineer!
 </p>
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/quangminh24112005/github-profile-trophy)
 
 ## 🗂️ Highlight Projects:
 - [Project 1](https://github.com/quangminh24112005/project1)
