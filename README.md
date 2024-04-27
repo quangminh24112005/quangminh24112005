@@ -6,7 +6,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/yourusername/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yourusername/)](https://www.facebook.com/yourusername/)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
-[![Website](https://img.shields.io/badge/github-800080.svg?&style=for-the-badge&logo=github&logoColor=white)](https://yourwebsite.com)
 
 ## 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
