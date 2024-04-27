@@ -1,37 +1,41 @@
-<div align="center">
+<p align="center" style="font-size: 24px; font-weight: bold;"># Hi there 👋, I'm Quang Minh</p>
 
-    # Hi there 👋, I'm Quang Minh
+<p align="center" style="font-size: 18px;">I'm a Software Engineer!</p>
 
-    I'm a Software Engineer!
-
+<p align="center">
     <a href="https://github.com/quangminh24112005">
         <img src="https://img.shields.io/github/followers/quangminh24112005?label=Follow&style=social" alt="Github">
     </a>
+</p>
 
+<p align="center">
     <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-            alt="LinkedIn">
+            alt="LinkedIn" style="text-decoration: none;">
     </a>
     <a href="https://twitter.com/yourusername" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"
-            alt="Twitter">
+            alt="Twitter" style="text-decoration: none;">
     </a>
     <a href="https://www.instagram.com/yourusername/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white"
-            alt="Instagram">
+            alt="Instagram" style="text-decoration: none;">
     </a>
     <a href="https://www.facebook.com/yourusername/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"
-            alt="Facebook">
+            alt="Facebook" style="text-decoration: none;">
     </a>
     <a href="https://yourwebsite.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white"
-            alt="Website">
+            alt="Website" style="text-decoration: none;">
     </a>
-
-</div>
-
-<!-- Rest of your README content -->
+    <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://camo.githubusercontent.com/53c5129a5b26d5775d744e45f63783bbe396f7dae1e7f9c8bc4ca20de2be7ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img
+            src="https://camo.githubusercontent.com/53c5129a5b26d5775d744e45f63783bbe396f7dae1e7f9c8bc4ca20de2be7ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"
+            alt="Python"
+            data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&amp;logo=python&amp;logoColor=white"
+            style="max-width: 100%;"></a>
+</p>
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=quangminh24112005&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
