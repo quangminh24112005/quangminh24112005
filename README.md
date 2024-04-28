@@ -69,8 +69,8 @@ Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-th
 ![Visual Studio
 Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+---
 <h3 align="center">⚡Activity Graph⚡</h3>
 <img align="center"
 src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
@@ -89,11 +89,13 @@ height="180em" />
 <img align="center"
 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangminh24112005&theme=2077"
 height="180em" />
-<!-- <img align="center"
+<img align="center"
 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangminh24112005&theme=2077"
-height="180em" /> -->
+height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br>
+---
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<br><br>
 
 <div align="center">
 <h3 align="center">✍️ Random Dev Quote</h3><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
