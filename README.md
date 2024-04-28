@@ -4,7 +4,7 @@
 <div align="center">
     <h1>Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
             width="30px"><br></h1>
-    I'm an IT freshman studying at RMIT University!
+    I'm an IT freshman studying at RMIT University!        [![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
 </div>
 
 ## 🌐 Socials:
@@ -94,11 +94,8 @@ height="180em" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
 
 <div align="center">
-
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-<a href="https://github.com/quangminh24112005"><img src="https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5" alt="Visit Count"></a>
-
 </div>
 
 
