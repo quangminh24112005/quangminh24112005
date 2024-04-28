@@ -93,9 +93,9 @@ height="180em" />
 <img align="center"
 src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
+<div align="center">
+<h3 align="center">✍️ Random Dev Quote</h3><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+</div>
 
 
 <img
