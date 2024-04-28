@@ -4,10 +4,10 @@
 <div align="center">
     <h1>Hi, my name is Quang Minh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
             width="30px"><br></h1>
-    I'm an IT freshman studying at RMIT University!        [![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
+    I'm an IT freshman studying at RMIT University!
 </div>
 
-## 🌐 Socials:
+## 🌐 Socials:        [![](https://visitcount.itsvg.in/api?id=quangminh24112005&icon=0&color=5)](https://github.com/quangminh24112005)
 <div> <a href="https://twitter.com/quang_minh2411" target="_blank"><img
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
             target="_blank"></a>
