@@ -1,0 +1,231 @@
+/* Top bar */
+#topBar {   
+    height: 50px;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+}
+
+#topBarLink {
+    height: 100px;
+    color: rgb(78, 78, 78) !important;
+    text-decoration: none !important;
+}
+
+#topBarLink:hover {
+    color: black !important;
+}
+
+/* Top bar dark mode */
+.dark-mode #topBar {
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+.dark-mode #topBarLink {
+    color: white !important;
+}
+
+.dark-mode #topBarLink:hover {
+    color: #ffc107 !important;
+}
+
+/* Navigation bar */
+#navbar a {
+    color: rgb(78, 78, 78) !important;
+    font-size: 16px;
+    font-weight: 700
+}
+
+#navbar a:hover {
+    color: black !important;
+}
+
+/* Navigation bar dark mode */
+.dark-mode #navbar {
+    background-color: #2B3139 !important;
+}
+
+.dark-mode #navbar a {
+    color: white !important;
+    font-size: 16px;
+    font-weight: 700
+}
+
+.dark-mode #navbar a:hover {
+    color: #ffc107 !important;
+}
+
+/* Search input */
+.form-control {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.dark-mode select {
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+#themeSelect:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+/* Dropdown menu of product */
+#dropdown-menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+#dropdown-menu i {
+    text-align: center;
+    width: 20px;
+    color: black;
+}
+
+/* Dropdown menu of product dark mode */
+.dark-mode #dropdown-menu {
+    background-color: #212529;
+}
+
+.dark-mode #dropdown-menu i {
+    text-align: center;
+    width: 20px;
+    color: white;
+}
+
+#dropdown-menu li:hover {
+    color: black;
+    text-decoration: none;
+}
+
+/* Breadcrumb */
+#breadcrumb {
+    background-color: whitesmoke;
+    width: 100%;
+    padding: auto;
+    padding-left: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+#breadcrumb a {
+    text-decoration: none;
+    color: black;
+}
+
+#breadcrumb a:hover {
+    text-decoration: none;
+    color: #ffc107;
+}
+
+/* Breadcrumb dark mode */
+.dark-mode #breadcrumb {
+    background-color: #2B3139 !important;
+    color: white !important;
+}
+
+.dark-mode #breadcrumb a {
+    text-decoration: none;
+    color: white;
+}
+
+.dark-mode #breadcrumb a:hover {
+    text-decoration: none;
+    color: #ffc107;
+}
+
+/* Additional effect */
+@media screen and (max-width:600px) {
+    .centerOnMobile {
+        text-align: center
+    }
+}
+
+/* .switch {
+    top: 8px;
+    position: absolute;
+    display: inline-block;
+    width: 60px;
+    height: 32px;
+    margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider:before {
+    position: absolute;
+    content: "\f185";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    height: 28px;
+    width: 28px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    transition: .4s;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider:before::after {
+    content: "\f185";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    position: absolute;
+    z-index: 2;
+}
+
+input:checked+.slider:before::after {
+    content: "\f186";
+    color: black !important;
+}
+
+#sunIcon,
+#moonIcon {
+    position: absolute;
+    z-index: 2;
+}
+
+input:checked+.slider {
+    background-color: darkorchid;
+}
+
+input:checked+.slider:before {
+    content: "\f186";
+    color: black !important;
+    transform: translateX(28px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+} */

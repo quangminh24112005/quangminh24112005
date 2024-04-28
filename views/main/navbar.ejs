@@ -1,0 +1,181 @@
+<!-- CSS Link -->
+<link rel="stylesheet" href="/stylesheets/navbar.css">
+
+<!-- Top bar -->
+<div class="topBar py-2 bg-light" id="topBar">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 centerOnMobile">
+                <select id="themeSelect" class="me-3 border-0">
+                    <option value="system">System Theme</option>
+                    <option value="light">Light Mode</option>
+                    <option value="dark">Dark Mode</option>
+                </select>
+                <span class="d-none d-lg-inline-block d-md-inline-block d-sm-inline-block d-xs-none me-3"><strong>RMIT
+                        University</strong></span>
+                <span class="me-3">
+                    <i class="fa fa-barcode" aria-hidden="true"></i>
+                    <strong>SGS - Group 5</strong></span>
+            </div>
+            <div
+                class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-none d-lg-block d-md-block-d-sm-block d-xs-none text-end">
+                <span class="me-3">
+                    <a href="#" id="topBarLink"><i class="fa fa-truck" aria-hidden="true"></i> Shipping</a></span>
+                <span class="me-3">
+                    <a href="#policy" id="topBarLink"><i class="fa fa-file" aria-hidden="true"></i> Policy</a></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Navigation bar -->
+<nav class="navbar navbar-expand-lg bg-white sticky-top navbar-light p-3 " id="navbar">
+    <div class="container">
+        <!-- For mobile view -->
+        <a class="navbar-brand" href="/"><i class="fa-solid fa-shop me-2"></i> <img src="images/binanceLogo.png"
+                width="40px" alt=""></a>
+        <div class="mx-auto my-3 d-lg-none d-sm-block d-xs-block">
+            <div class="input-group">
+                <span class="border-warning input-group-text bg-warning text-white"><i
+                        class="fa-solid fa-magnifying-glass"></i></span>
+                <input type="text" class="form-control border-warning searchInput" style="color:#7a7a7a" id="searchBar"
+                    placeholder="">
+                <button class="btn btn-warning text-white" id="searchBar">
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- For desktop view -->
+        <div class=" collapse navbar-collapse" id="navbarNavDropdown">
+            <div class="ms-auto d-none d-lg-block">
+                <div class="input-group">
+                    <span class="border-warning input-group-text bg-warning text-white" id="searchBar">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </span>
+                    <input type="text" class="form-control border-warning searchInput" style="color:#7a7a7a"
+                        id="searchBar" placeholder="">
+                    <button class="btn btn-warning text-white" id="searchForm">Search</button>
+                </div>
+            </div>
+            <ul class="navbar-nav ms-auto ">
+                <li class="nav-item">
+                    <a class="nav-link mx-2 text-uppercase" active href="/">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle mx-2 text-uppercase" href="#" id="navbarDropdown" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Product
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown" id="dropdown-menu">
+                        <li><a class="dropdown-item" href="/product"><i class="fa fa-mobile" aria-hidden="true"></i>
+                                Phone</a>
+                        </li>
+                        <li><a class="dropdown-item" href="/product"><i class="fa fa-laptop" aria-hidden="true"></i>
+                                Laptop</a>
+                        </li>
+                        <li><a class="dropdown-item" href="/product"><i class="fa fa-headphones" aria-hidden="true"></i>
+                                Headphone</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link mx-2 text-uppercase" href="/about">About</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ms-auto ">
+                <li class="nav-item">
+                    <a class="nav-link mx-2 text-uppercase" href="/cart"><i class="fa-solid fa-cart-shopping me-1"></i>
+                        Cart</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link mx-2 text-uppercase" href="/account"><i class="fa-solid fa-circle-user me-1"></i>
+                        Account</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script>
+
+    </script>
+</nav>
+
+<!-- Breadcrumb -->
+<nav aria-label="breadcrumb" id="breadcrumb">
+    <ol class="breadcrumb">
+        <% if (title !=='Home' ) { %>
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+            <% } %>
+                <li class="breadcrumb-item active" aria-current="page">
+                    <a href="<%= path %>">
+                        <%= title %>
+                    </a>
+                </li>
+    </ol>
+</nav>
+
+<!-- <script>
+    var searchInputs = document.getElementsByClassName('searchInput');
+var phrases = ['Looking for something?  ', 'Buy anything ', 'All you want is here '];
+var i = 0;
+var j = 0;
+var currentPhrase = [];
+var isDeleting = false;
+var isEndOfPhrase = false;
+var intervalId;
+
+function loop() {
+    isEndOfPhrase = false;
+
+    for (var k = 0; k < searchInputs.length; k++) {
+        searchInputs[k].placeholder = currentPhrase.join('');
+    }
+
+    if (i < phrases.length) {
+
+        if (!isDeleting && j <= phrases[i].length) {
+            currentPhrase.push(phrases[i][j]);
+            j++;
+        }
+
+        if (isDeleting && j <= phrases[i].length) {
+            currentPhrase.pop(phrases[i][j]);
+            j--;
+        }
+
+        if (j == phrases[i].length) {
+            isEndOfPhrase = true;
+            isDeleting = true;
+        }
+
+        if (isDeleting && j === 0) {
+            currentPhrase = [];
+            isDeleting = false;
+            i++;
+            if (i == phrases.length) {
+                i = 0;
+            }
+        }
+    }
+    const spedUp = Math.random() * (80 - 50) + 50;
+    const normalSpeed = Math.random() * (300 - 200) + 200;
+    const time = isEndOfPhrase ? 2000 : isDeleting ? spedUp : normalSpeed;
+    intervalId = setTimeout(loop, time);
+}
+
+for (var k = 0; k < searchInputs.length; k++) {
+    searchInputs[k].addEventListener('focus', function () {
+        clearInterval(intervalId);
+        this.placeholder = '';
+    });
+
+    searchInputs[k].addEventListener('blur', function () {
+        intervalId = setTimeout(loop, 0);
+    });
+}
+
+loop();
+</script> -->
