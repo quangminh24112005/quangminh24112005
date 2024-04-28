@@ -29,4 +29,12 @@ app.use(function (req, res, next) {
 });
 
 // error handler
+// omitted for brevity
+
+// Listen on the correct port
+var port = process.env.PORT || 3000;
+app.listen(port, function() {
+  console.log('Express server listening on port ' + port);
+});
+
 module.exports = app;
