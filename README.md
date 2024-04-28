@@ -72,7 +72,6 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/quangminh24112005">
 <img align="center"
 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangminh24112005&theme=2077"
 height="180em" />
