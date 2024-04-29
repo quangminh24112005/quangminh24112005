@@ -2,3 +2,11 @@ Color palette:
 #212529: Dark gray
 #2B3139: Light gray
 #ffc107: Yellow
+
+// Listen on the correct port
+var port = process.env.PORT || 3000;
+app.listen(port, function() {
+  console.log('Express server listening on port ' + port);
+});
+
+module.exports = app;
